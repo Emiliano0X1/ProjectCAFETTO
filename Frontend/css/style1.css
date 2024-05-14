@@ -1,0 +1,19 @@
+
+.NavBar{
+
+    background-color: aliceblue;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+.nav_left{
+    margin-right:15px;
+    padding:21px;
+}
+
+.nav_right{
+    margin-left: auto;
+    padding:21px;
+}
